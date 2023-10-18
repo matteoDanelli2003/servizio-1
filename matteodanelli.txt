@@ -1,6 +1,10 @@
 ciao ciao ciao
 
-sono un'aggiunta
+prova
+lol
 
+<<<<<<< HEAD
 ora sto meglio
  sono biricchino
+=======
+>>>>>>> f1f60f13c889bf1f5766b9a3cde0a13681c7083d
